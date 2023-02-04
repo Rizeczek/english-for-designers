@@ -18,7 +18,7 @@ Now I work for the biggest and most profitable Czech telecommunications provider
  <FONT COLOR="#FFE4C2"><b>Phone:</b> 725 939 353</font><br>
  <FONT COLOR="#FFE4C2"><b>Email:</b>  petr.kulhanek@o2.cz</font><br><br><br>
 
-  <h2>Case Studies</h2>
+  <h2><FONT COLOR="#FF950A">Case Studies</font></h2>
   
-<h2>Class Work</h2>
+<h2><FONT COLOR="#FF950A">Class Work</font></h2>
 <a href="01-alternative-text/index.md"><font color="FF950A"><b>Alternative Text.</b></font></a>
