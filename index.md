@@ -11,4 +11,14 @@
 I started as a junior graphic designer in a marketing agency TRITON IT, where I put hand on creating brand identities, business cards, flyers, brochures and billboards. But what I found most amusing were websites. And that is how i got into <a href="https://en.wikipedia.org/wiki/User_interface_design"><font color="FF950A"><b>User Interface Design</b></font></a> and <a href="https://en.wikipedia.org/wiki/User_experience"><font color="FF950A"><b>User Experience.</b></font></a>
 <br>
 <br>
-Now I work for the biggest and most profitable Czech telecommunications provider O2 and the rest is history (described in this portfolio). My role is to expand MojeO2 (O2 selfcare platform) design system, create in-app ad banners for products and services and drawing wireframes for new product deliveries.</FONT>
+Now I work for the biggest and most profitable Czech telecommunications provider O2 and the rest is history (described in this portfolio). My role is to expand MojeO2 (O2 selfcare platform) design system, create in-app ad banners for products and services and draw wireframes for new product deliveries.</FONT><br><br>
+  
+  <h3>Quick contact</h3>
+  Do you need to discuss something with top priority? Contact me <b>ASAP!</b><br><br>
+  <b>Phone:</b> 725 939 353<br>
+  <b>Email:</b>  petr.kulhanek@o2.cz<br><br><br>
+
+  <h2>Case Studies</h2>
+  
+  <h2>Class Work</h2>
+  
