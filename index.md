@@ -21,4 +21,10 @@ Now I work for the biggest and most profitable Czech telecommunications provider
 <h2><font color="#FF950A">Caseeee Studies</font></h2>
   
 <h2><font color="#FF950A">Class Work</font></h2>
-<a href="https://rizeczek.github.io/english-for-designers/01-alternative-text/"><font color="FF950A"><b>Alternative Text.</b></font></a>
+<a href="https://rizeczek.github.io/english-for-designers/01-alternative-text/"><font color="FF950A"><b>Alternative Text</b></font></a><br>
+<a href="https://rizeczek.github.io/english-for-designers/01-alternative-text/"><font color="FF950A"><b>First Impression</b></font></a><br>
+<a href="https://rizeczek.github.io/english-for-designers/01-alternative-text/"><font color="FF950A"><b>Content First</b></font></a><br>
+<a href="https://rizeczek.github.io/english-for-designers/01-alternative-text/"><font color="FF950A"><b>Expereince</b></font></a><br>
+<a href="https://rizeczek.github.io/english-for-designers/01-alternative-text/"><font color="FF950A"><b>Voice and Tone</b></font></a><br>
+<a href="https://rizeczek.github.io/english-for-designers/01-alternative-text/"><font color="FF950A"><b>Takeaways</b></font></a><br>
+
