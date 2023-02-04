@@ -4,7 +4,7 @@
 <H1><FONT COLOR="#FF950A">My portfolio just got GitHubbed</FONT></H1>
 <FONT COLOR="#FFE4C2">And you're about to witness it.</FONT>
   
-<H2><FONT COLOR="#FF950A">About me</FONT></H2>
+<H3><FONT COLOR="#FF950A">About me</FONT></H3>
 <FONT COLOR="#FFE4C2">My name is Petr and I am Prague based UX/UI designer. However, that is not how I began my journey.
 <br>
 <br>
