@@ -1,6 +1,5 @@
 <html>
 <body style="background-color:#001121;">
-<BODY LINK="#FF950A">
 <h1><font color="#FF950A">My portfolio just got GitHubbed</font></h1>
 <font color="#FFE4C2">And you're about to witness it.</font>
   
