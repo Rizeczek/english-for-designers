@@ -21,4 +21,4 @@ Now I work for the biggest and most profitable Czech telecommunications provider
   <h2><FONT COLOR="#FF950A">Case Studies</font></h2>
   
 <h2><FONT COLOR="#FF950A">Class Work</font></h2>
-<a href="01-alternative-text/index.md"><font color="FF950A"><b>Alternative Text.</b></font></a>
+<a href="https://rizeczek.github.io/english-for-designers/alternative-text/"><font color="FF950A"><b>Alternative Text.</b></font></a>
