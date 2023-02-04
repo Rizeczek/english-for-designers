@@ -21,4 +21,4 @@ Now I work for the biggest and most profitable Czech telecommunications provider
   <h2>Case Studies</h2>
   
   <h2>Class Work</h2>
-  
+  - [Alternative Text](01-alternative-text/index.md)
