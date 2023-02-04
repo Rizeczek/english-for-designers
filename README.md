@@ -2,4 +2,4 @@
 
 My portfolio just got <b>GitHubbed.</b>
 
-And you'll ge to know me better.
+And you will ge to know me better.
