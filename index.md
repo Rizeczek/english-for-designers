@@ -12,7 +12,7 @@ I started as a junior graphic designer in a marketing agency TRITON IT, where I 
 <br>
 Now I work for the biggest and most profitable Czech telecommunications provider O2 and the rest is history (described in this portfolio). My role is to expand MojeO2 (O2 selfcare platform) design system, create in-app ad banners for products and services and draw wireframes for new product deliveries.</font><br><br>
   
-<h3>Quick contact</h3>
+<h3><font color="#FF950A">Quick contact</font></h3>
  <font color="#FFE4C2">Do you need to discuss something with top priority? Contact me <b>ASAP!</b></font><br><br>
  <font color="#FFE4C2"><b>Phone:</b> 725 939 353</font><br>
  <font color="#FFE4C2"><b>Email:</b>  petr.kulhanek@o2.cz</font><br><br><br>
