@@ -51,5 +51,10 @@ The aim of wireframes is to think through individual sections of the website.
 Down here you can see how I draw these sections.
 
 ![Wireframe 1](wf1.png)
+Homepage Wireframe
+
 ![Wireframe 2](wf2.png)
+Personal Information Filling Form Wireframe
+
 ![Wireframe 3](wf3.png)
+Crop, Stock and Machinery Filling Form Wireframe
