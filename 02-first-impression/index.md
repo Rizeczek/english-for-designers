@@ -63,6 +63,8 @@ Personal Information Filling Form Wireframe
 Crop, Stock and Machinery Filling Form Wireframe
 
 
+
+
 **Final Design**
 
 ![Design 1](d1.png)
@@ -72,6 +74,8 @@ Homepage UI
 ![Design 2](d2.png)
 
 Crop, Stock and Machinery Filling Form UI
+
+
 
 
 **Obstacles**
@@ -85,6 +89,8 @@ Because of easier responsive coding, a narrow layout grid had been chosen.
 That limited designing space - First idea was to have big fillable table That was impossible to nest into the layout, so we have chosen to design tab group for each category with text fields spaced vertically.
 
 ![Obstacle](obst.png)
+
+
 
 
 **Summary**
