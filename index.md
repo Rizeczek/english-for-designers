@@ -27,5 +27,5 @@ Now I work for the biggest and most profitable Czech telecommunications provider
 <a href="https://rizeczek.github.io/english-for-designers/03-content-first/"><font color="FF950A"><b>Content First</b></font></a><br>
 <a href="https://rizeczek.github.io/english-for-designers/04-experience/"><font color="FF950A"><b>Experience</b></font></a><br>
 <a href="https://rizeczek.github.io/english-for-designers/05-voice-and-tone/"><font color="FF950A"><b>Voice and Tone</b></font></a><br>
-<a href="https://rizeczek.github.io/english-for-designers/06-takeaways/"><font color="FF950A"><b>Takeaways</b></font></a><br>
+<a href="https://rizeczek.github.io/english-for-designers/07-takeaways/"><font color="FF950A"><b>Takeaways</b></font></a><br>
 
