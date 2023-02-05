@@ -1,6 +1,6 @@
 # Fist Impression
 That is not a typo. My designs are going to punch you like a fist.
-![Ja](ja.png)
+![Ja](ja.jpg)
 
 ## About me
 My name is Petr and I am Prague based UX/UI designer. However, that is not how I began my journey.
