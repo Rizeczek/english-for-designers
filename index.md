@@ -19,10 +19,10 @@ Now I work for the biggest and most profitable Czech telecommunications provider
 
 <h2><font color="#FF950A">Case Study</font></h2>
 <a href="https://rizeczek.github.io/english-for-designers/06-case-study/"><font color="#FFE4C2"><b>Insurance Calculator</b></font></a>
- <font color="#FFE4C2">- Come check this case study, where you can learn about my style of work, my design taste and processes.</font> 
+ <font color="#FFE4C2">- Come check this case study, where you can learn about my style of work, my design taste and processes.</font><br><br><br>
   
   <h2><font color="#FF950A">CV</font></h2>
-<a href="https://rizeczek.github.io/english-for-designers/06-case-study/"><font color="#FFE4C2"><b>My CV</b></font></a>
+<a href="https://rizeczek.github.io/english-for-designers/06-case-study/"><font color="#FFE4C2"><b>My CV</b></font></a><br><br><br>
   
 <h2><font color="#FF950A">Class Work</font></h2>
 <a href="https://rizeczek.github.io/english-for-designers/01-alternative-text/"><font color="FF950A"><b>Alternative Text</b></font></a><br>
