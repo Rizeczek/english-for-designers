@@ -1,6 +1,9 @@
 # Fist Impression
 That is not a typo. My designs are going to punch you like a fist.
+
+
 ![Ja](ja.jpg)
+
 
 ## About me
 My name is Petr and I am Prague based UX/UI designer. However, that is not how I began my journey.
@@ -17,8 +20,36 @@ Now I work for the biggest and most profitable Czech telecommunications provider
 
 Create simple calculator for agricultural customers to find out the cost of insurance
 
+
 **Tasks to do**
+
+Research
 
 Branding
 
 Website (User flow, Wireframes, UI)
+
+
+**Research**
+
+Find other sites comparing insurances
+
+To avoid similarity in design
+
+To get inspiration
+
+
+**User Flow**
+
+![User Flow](userflow.png)
+
+
+**Wirefeames**
+
+The aim of wireframes is to think through individual sections of the website. 
+
+Down here you can see how I draw these sections.
+
+![Wireframe 1](wf1.png)
+![Wireframe 2](wf2.png)
+![Wireframe 3](wf3.png)
