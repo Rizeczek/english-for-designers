@@ -21,7 +21,7 @@ Thus, my tone is:
 
 1. Strong & Diplomatic
 
-Point out bad decisions and navigate the client to opt better with facts and experience.
+  - Point out bad decisions and navigate the client to opt better with facts and experience.
 
 
 ## Style
