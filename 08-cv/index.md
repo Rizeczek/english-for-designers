@@ -1,5 +1,5 @@
 # Curriculum Vitae
 
-Down here you can take a look and C at my V.
+Down here you can take a look and C my V.
 
 ![CV](CV.png)
