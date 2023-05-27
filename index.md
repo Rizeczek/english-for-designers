@@ -33,7 +33,7 @@ Now I work for the biggest and most profitable Czech telecommunications provider
 <a href="https://rizeczek.github.io/english-for-designers/07-takeaways/"><font color="FF950A"><b>Takeaways</b></font></a><br>><br>
   
   <h2><font color="#FF950A">Bachelors Thesis</font></h2>
-<a href="https://rizeczek.github.io/english-for-designers/01-alternative-text/"><font color="FF950A"><b>Abstract</b></font></a><br>
-<a href="https://rizeczek.github.io/english-for-designers/02-first-impression/"><font color="FF950A"><b>Bachelor Thesis Presentation</b></font></a><br>
+<a href="https://rizeczek.github.io/english-for-designers/09-abstract/"><font color="FF950A"><b>Abstract</b></font></a><br>
+<a href="https://rizeczek.github.io/english-for-designers/10-bachelors-thesis/"><font color="FF950A"><b>Bachelor Thesis Presentation</b></font></a><br>
 
 
