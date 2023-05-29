@@ -4,7 +4,13 @@ In this presentation, I would like to enlighten you about the topic of blue ligh
 
 # Prehistoric John
 
-To demonstrate this correctly, please, meet John. John is prehistoric caveman, who spends his days running through landscapes, hunting deers, chilling by the only nocturnal source of light – fire, and then he falls asleep to it.
+To demonstrate this correctly, please, meet John.
+
+![John](john.png) ![]()
+
+John is prehistoric caveman, who spends his days running through landscapes, hunting deers, chilling by the only nocturnal source of light – fire, and then he falls asleep to it.
+
+![Prehistoric activities](prehi.png)
 
 # Nowadays John
 
@@ -14,6 +20,8 @@ Then he spends 8 hours sitting behind his office desk with absolutely no stretch
 
 Then he comes home, spends the rest of his day gazing into his phone consuming social media content. Eventually, he falls asleep after totally smashing his brain with the full brightness emitted from his mobile device.
 
+![Nowadays activities](nowa.png)
+
 # What is John doing wrong?
 
 Everything. But mostly, he does not have a proper blue light hygiene. But to understand more, let’s introduce you into brief definition of blue light.
@@ -22,13 +30,22 @@ Everything. But mostly, he does not have a proper blue light hygiene. But to und
 
 Blue light is a part of visible light.
 
+![Blue light](blue.png)
+
 # Visible light
 
 Visible light is a light visible to human eye. And that light is part of electromagnetic spectrum.
 
+![Visible light](visible.png)
+![Electromagnetic spectre](electro.png)
+
 # Blue and green light
 
-The most important part of visible light is green and blue light, that is detected by suprachiasmatic nucleuses. These are nucleuses located in the hypothalamus. As it detects blue light, it gives the signal to the brain, that it is a day and such gland stops the secretion of melatonin – the hormone, that tells the body, that it is time to go to bed.
+The most important part of visible light is green and blue light, that is detected by suprachiasmatic nucleuses.
+
+![Green and blue light](greenblue.png)
+
+These are nucleuses located in the hypothalamus. As it detects blue light, it gives the signal to the brain, that it is a day and such gland stops the secretion of melatonin – the hormone, that tells the body, that it is time to go to bed.
 
 Melatonin therefore works as a referee who shoots the gun for runners to start running – in this case, the body to start shutting down.
 
@@ -39,6 +56,8 @@ Apart from that, alongside with suprachiasmatic nucleuses, it synchronizes body�
 The sleep-wake cycle determines levels of bodily energy, alertness and other body functions in general.
 
 Down here you can see comparison between the blue light and red light.
+
+![Sleep-wake cycle](cycle.png)
 
 Red light is a friend of suprachiasmatic nucleuses, it gives no signal to brain and the absence of blue light suggests, that body can start to fall asleep.
 
