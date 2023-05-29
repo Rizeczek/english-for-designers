@@ -2,6 +2,8 @@
 
 In this presentation, I would like to enlighten you about the topic of blue light and its effects on human beings and potential aftermaths if you don’t have proper blue light hygiene.
 
+If you want to see my in-class presentation visit this link: https://www.figma.com/file/moCjprfUyLJO7C4SI9QIpY/Storytelling?type=design&node-id=0-1
+
 # Prehistoric John
 
 To demonstrate this correctly, please, meet John.
