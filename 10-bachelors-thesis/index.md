@@ -1,6 +1,8 @@
 
 Welcome to the presentation of my one and only bachelors thesis.
 
+And here's the link for completeness: https://www.figma.com/file/rSfhY2hVfhXAYe8HcGNFXA/Untitled?type=design&node-id=0-1
+
 # Have you ever...
 ...been in a situation, when you travel abroad and have all your needs covered? Shopping, groceries, taxi, accomodation. All of these subjects can be easily covered via multiple and various apps, websites or even complex-service providers.<br><br>
 
