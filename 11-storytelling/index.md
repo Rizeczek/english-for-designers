@@ -74,3 +74,5 @@ However, you should’t avoid during early hours after waking up as it:<br>
 - Supports cognitive functions<br>
 - Make you more alerted during the day<br>
 - Gives signals to wake the body<br>
+
+Simply, avoid blue light before bed, seek it during the day. (Or be like prehistoric John)
