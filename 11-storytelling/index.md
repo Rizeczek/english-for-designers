@@ -2,7 +2,7 @@
 
 In this presentation, I would like to enlighten you about the topic of blue light and its effects on human beings and potential aftermaths if you don’t have proper blue light hygiene.
 
-If you want to see my in-class presentation visit this link: https://www.figma.com/file/moCjprfUyLJO7C4SI9QIpY/Storytelling?type=design&node-id=0-1
+If you want to see my in-class presentation visit this link: <https://www.figma.com/file/moCjprfUyLJO7C4SI9QIpY/Storytelling?type=design&node-id=0-1>
 
 # Prehistoric John
 
@@ -28,20 +28,22 @@ Then he comes home, spends the rest of his day gazing into his phone consuming s
 
 Everything. But mostly, he does not have a proper blue light hygiene. But to understand more, let’s introduce you into brief definition of blue light.
 
-# Blue light
+# Caeruleus lux et populus
+(or Blue light and its effects on human beings)
+## Blue light
 
 Blue light is a part of visible light.
 
 ![Blue light](blue.png)
 
-# Visible light
+## Visible light
 
 Visible light is a light visible to human eye. And that light is part of electromagnetic spectrum.
 
 ![Visible light](visible.png)
 ![Electromagnetic spectre](electro.png)
 
-# Blue and green light
+## Blue and green light
 
 The most important part of visible light is green and blue light, that is detected by suprachiasmatic nucleuses.
 
@@ -53,7 +55,7 @@ Melatonin therefore works as a referee who shoots the gun for runners to start r
 
 Apart from that, alongside with suprachiasmatic nucleuses, it synchronizes body’s sleep-wake cycle.
 
-# Sleep-wake cycle
+## Sleep-wake cycle
 
 The sleep-wake cycle determines levels of bodily energy, alertness and other body functions in general.
 
@@ -68,7 +70,7 @@ Red light is a friend of suprachiasmatic nucleuses, it gives no signal to brain 
 It means that you should:
 Avoid blue light during late night hours, if you want your body to rest properly during sleep and do not wish to have disturbed circadian rhythm AKA sleep-wake cycle.
 
-However, you should’t avoid during early hours after waking up as it:
-Supports cognitive functions
-Make you more alerted during the day
-Gives signals to wake the body
+However, you should’t avoid during early hours after waking up as it:<br>
+- Supports cognitive functions<br>
+- Make you more alerted during the day<br>
+- Gives signals to wake the body<br>
