@@ -7,6 +7,6 @@ Based on this research, the final product concept had been defined. A part of th
 identity, marketing communication on social media and websites, design sytem and
 unique design environement in the field of medical care.
 
-## Key Words
+## Keywords
 User Research, Design System, Brand identity, Logo, User Interface Design, User Experience
 Design, Artificial Intelligence, Medical Care, Digital Nomads
