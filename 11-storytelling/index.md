@@ -70,7 +70,7 @@ Red light is a friend of suprachiasmatic nucleuses, it gives no signal to brain 
 It means that you should:
 Avoid blue light during late night hours, if you want your body to rest properly during sleep and do not wish to have disturbed circadian rhythm AKA sleep-wake cycle.
 
-However, you should’t avoid during early hours after waking up as it:<br>
+However, you shouldn’t avoid during early hours after waking up as it:<br>
 - Supports cognitive functions<br>
 - Make you more alerted during the day<br>
 - Gives signals to wake the body<br>
